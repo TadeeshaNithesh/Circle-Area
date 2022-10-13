@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.jpg"/></p>
+
 # Circle-Area
 This is completely created using c++
 
